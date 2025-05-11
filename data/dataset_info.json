@@ -1,0 +1,15 @@
+{
+  "alpaca_en_demo": {
+    "file_name": "alpaca_en_demo.json"
+  },
+  "lima_preference_dpo": {
+    "file_name": "lima_dpo/lima_preference_PairRM_DPO.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  }
+}
