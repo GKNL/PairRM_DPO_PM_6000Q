@@ -4,9 +4,9 @@ A straightforward implementation of paper "Self-Alignment with Instruction Backt
 
 ## Dataset and Model Weight Link
 
-**Full dataset of Self-curation (LIMA) can be accessed at:** [LIMA_Scored_Samples](https://huggingface.co/datasets/GPRM/LIMA_Scored_Samples)
+**Full dataset of PairRM_Preference_LIMA can be accessed at:** [GPRM/PairRM_Preference_LIMA](https://huggingface.co/datasets/GPRM/PairRM_Preference_LIMA)
 
-**Full model weight can be accessed at:** [GPRM/Llama-2-7b-OpenAssistant-Backwards](https://huggingface.co/GPRM/Llama-2-7b-OpenAssistant-Backwards), [GPRM/Llama-2-7b-LIMA-Alignment](https://huggingface.co/GPRM/Llama-2-7b-LIMA-Alignment)
+**Lora DPO model weight can be accessed at:** [GPRM/Mistral-7B-PairRM-DPO](https://huggingface.co/GPRM/Mistral-7B-PairRM-DPO)
 
 ## Key File Descriptions
 
